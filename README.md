@@ -1,6 +1,6 @@
 # DeltaDaemon Python SDK
 
-Production-quality async Python SDK for the [DeltaDaemon API](https://api.deltadaemon.com) — historical NWS forecast accuracy data for US weather stations.
+Production-quality async Python SDK for the [DeltaDaemon API](https://deltadaemon.com/docs/getting-started/overview) — historical NWS forecast accuracy data for US weather stations.
 
 ## Install
 
